@@ -3,7 +3,7 @@ import 'dart:typed_data';
 
 import 'package:image/image.dart';
 import 'package:quiver/check.dart';
-import 'package:tflite_flutter/tflite_flutter.dart';
+import 'package:tflite_flutter_plus/tflite_flutter_plus.dart';
 import 'package:tensor_helper/src/image/base_image_container.dart';
 import 'package:tensor_helper/src/image/color_space_type.dart';
 import 'package:tensor_helper/src/image/image_container.dart';

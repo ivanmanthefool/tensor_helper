@@ -1,5 +1,5 @@
 import 'package:image/image.dart';
-import 'package:tflite_flutter/tflite_flutter.dart';
+import 'package:tflite_flutter_plus/tflite_flutter_plus.dart';
 import 'package:tensor_helper/src/image/color_space_type.dart';
 import 'package:tensor_helper/src/tensorbuffer/tensorbuffer.dart';
 

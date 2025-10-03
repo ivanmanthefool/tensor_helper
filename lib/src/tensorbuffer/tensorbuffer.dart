@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 import 'package:tensor_helper/src/common/support_preconditions.dart';
-import 'package:tflite_flutter/tflite_flutter.dart';
+import 'package:tflite_flutter_plus/tflite_flutter_plus.dart';
 import 'package:meta/meta.dart';
 import 'package:tensor_helper/src/tensorbuffer/tensorbufferfloat.dart';
 import 'package:tensor_helper/src/tensorbuffer/tensorbufferuint8.dart';

@@ -1,6 +1,6 @@
 import 'package:camera/camera.dart';
 import 'package:image/image.dart';
-import 'package:tflite_flutter/tflite_flutter.dart';
+import 'package:tflite_flutter_plus/tflite_flutter_plus.dart';
 import 'package:tensor_helper/src/image/base_image_container.dart';
 import 'package:tensor_helper/src/image/image_conversions.dart';
 import 'package:tensor_helper/src/tensorbuffer/tensorbuffer.dart';
